@@ -1,6 +1,6 @@
 # Project Title
 
-<div style="display" align="left">
+<div style="display" align="center">
 <img src="./rscs/Spaghetti.png" width="50%">
 </div>
 

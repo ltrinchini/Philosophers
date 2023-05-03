@@ -1,4 +1,4 @@
-# Project Title
+# Philosophers
 
 <div style="display" align="center">
 <img src="./rscs/Spaghetti.png" width="50%">
